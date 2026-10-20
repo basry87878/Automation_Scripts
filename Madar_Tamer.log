@@ -1,0 +1,23 @@
+powershell -ExecutionPolicy Bypass -File E:\Projects\Madar_Tamer.ps1 -Pause2026-10-20 11:20:57  Outlook already running - syncing, waiting 45 s...
+2026-10-20 11:21:42  ---- Madar Control Tower -> madar
+2026-10-20 11:21:42  Archive folder not found: Madar Control Tower (checking Inbox only)
+2026-10-20 11:21:42  FAILED [Madar Control Tower]: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA)
+2026-10-20 11:21:42  ---- Tamer Control Tower -> TAMER Control Tower - P&G
+2026-10-20 11:21:42  Archive folder not found: Tamer Control Tower (checking Inbox only)
+2026-10-20 11:21:42  FAILED [Tamer Control Tower]: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA)
+2026-10-20 11:23:24  Outlook was closed, started by script - syncing, waiting 120 s...
+2026-10-20 11:25:01  Outlook already running - syncing, waiting 45 s...
+2026-10-20 11:25:46  ---- Madar Control Tower -> madar
+2026-10-20 11:25:52    \\basry.ab@pg.com\Archive\Madar Control Tower: newest match 10/20/2026 07:33:56 | P & G Control Data Update  | P & G Control Tower Data.xlsx
+2026-10-20 11:25:52    \\A.Basry@nu.edu.eg\Inbox: no match in newest 150 emails. Newest emails there:
+2026-10-20 11:25:52        10/19/2026 16:29:52 | Ready: Inferential Statistics    
+2026-10-20 11:25:52        10/19/2026 16:28:26 | Your Support Matters – QS Employer Reputation Ranking Survey
+2026-10-20 11:25:52        10/19/2026 15:10:59 | Job Action Day 
+2026-10-20 11:25:53  OK  saved 'P & G Control Tower Data.xlsx' (email received 10/20/2026 07:33:56) -> C:\Users\Test\OneDrive - Procter and Gamble\Saudi PD - Transportation\Last Mile Operations Officer\Source\Transporters Reports\madar.xlsx
+2026-10-20 11:25:53  ---- Tamer Control Tower -> TAMER Control Tower - P&G
+2026-10-20 11:25:54    \\basry.ab@pg.com\Archive\Tamer Control Tower: newest match 10/20/2026 07:35:02 | Control Tower X P&G - 20-10-2026_Morning Report | P&G_Report_20-10-2026_Morning.xlsx
+2026-10-20 11:25:55    \\A.Basry@nu.edu.eg\Inbox: no match in newest 150 emails. Newest emails there:
+2026-10-20 11:25:55        10/19/2026 16:29:52 | Ready: Inferential Statistics    
+2026-10-20 11:25:55        10/19/2026 16:28:26 | Your Support Matters – QS Employer Reputation Ranking Survey
+2026-10-20 11:25:55        10/19/2026 15:10:59 | Job Action Day 
+2026-10-20 11:25:55  OK  saved 'P&G_Report_20-10-2026_Morning.xlsx' (email received 10/20/2026 07:35:02) -> C:\Users\Test\OneDrive - Procter and Gamble\Saudi PD - Transportation\Last Mile Operations Officer\Source\Transporters Reports\TAMER Control Tower - P&G.xlsx
